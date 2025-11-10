@@ -3,6 +3,12 @@
     "development"
   ],
   "hints": {
-    "typescript-config/is-valid": "off"
+    "button-type": "off",
+    "axe/structure": [
+      "default",
+      {
+        "list": "off"
+      }
+    ]
   }
 }
